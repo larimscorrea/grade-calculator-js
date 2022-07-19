@@ -1,0 +1,1 @@
+The project is a grade calculator.
